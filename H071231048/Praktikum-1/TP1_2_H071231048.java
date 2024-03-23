@@ -1,5 +1,3 @@
-package Tugas_Praktikum.Praktikum_1;
-// import java.net.SocketPermission;
 import java.util.Scanner;
 
 public class TP1_2_H071231048 {

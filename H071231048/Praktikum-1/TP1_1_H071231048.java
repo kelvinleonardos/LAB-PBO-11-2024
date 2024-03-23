@@ -1,4 +1,3 @@
-package Tugas_Praktikum.Praktikum_1;
 import java.util.Scanner;
 
 public class TP1_1_H071231048 {
