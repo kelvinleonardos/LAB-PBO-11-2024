@@ -4,7 +4,8 @@ public class TP3_H071231037 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Masukkan tanggal = ");
         String input = scanner.nextLine();
-        String[] garis = input.split("-");
+        String[] garis = input.split("-" );
+        
        
         String tanggal = garis[0];
         String bulan = garis[1];

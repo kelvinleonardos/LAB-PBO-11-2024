@@ -31,13 +31,7 @@ class Produk {
             System.out.println("/===================\\");
         }
     }
-
-    
-    
-    
-   
 }
-
 public class TP2_H071231037 {
     public static void main(String[] args) {
         Produk produk1 = new Produk();
