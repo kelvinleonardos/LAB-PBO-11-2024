@@ -3,7 +3,9 @@ abstract class Dog {
    int position;
    int averageLength;
    
-   
+   public void bark(){
+    System.out.println("woof");
+   }
    abstract void move();
    abstract void describe();
 }
