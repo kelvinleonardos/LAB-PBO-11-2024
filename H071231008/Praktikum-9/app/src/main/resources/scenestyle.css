@@ -1,0 +1,77 @@
+.custom-text {
+    -fx-font-size: 50px; 
+    -fx-fill: white; 
+
+}
+
+@font-face {
+    font-family: 'NormalHelve';
+    src: url('\HelveticaNormal.tff');
+}
+
+.custom-text2 {
+    -fx-font-size: 30px; 
+    -fx-fill: white; 
+}
+
+.custom-text3 {
+    -fx-font-size: 20px; 
+    -fx-fill: white;
+}
+
+.custom-text4 {
+    -fx-font-size: 30px; 
+    -fx-fill: rgb(21, 21, 21); 
+
+}
+
+.custom-button {
+    -fx-background-color: #0DF5E3;
+    -fx-text-fill: rgb(21, 21, 21);
+    -fx-font-size: 25px; 
+    -fx-font-family : 'NormalHelve';
+    -fx-padding: 10px 20px; 
+    -fx-background-radius: 5px;
+    -fx-transition: transform 0.2s, background-color 0.2s;
+}
+
+.custom-button2 {
+    -fx-background-color: #0DF5E3;
+    -fx-text-fill: rgb(21, 21, 21);
+    -fx-font-size: 15px; 
+    -fx-font-family : 'NormalHelve';
+    -fx-padding: 10px 20px; 
+    -fx-background-radius: 5px;
+    -fx-transition: transform 0.2s, background-color 0.2s;
+}
+
+.custom-button:hover {
+    -fx-background-color: rgb(101, 240, 255);
+}
+
+.custom-button:pressed {
+    -fx-background-color: #67d4ff;
+}
+
+.custom-button2:hover {
+    -fx-background-color: rgb(101, 240, 255);
+}
+
+.custom-button2:pressed {
+    -fx-background-color: #67d4ff;
+}
+
+.custom-rectangle {
+    -fx-fill: #38304C; 
+    -fx-arc-width: 20px;
+    -fx-arc-height: 20px;
+}
+.custom-rectangle2 {
+    -fx-fill: rgb(101, 240, 255); 
+    -fx-arc-width: 20px;
+    -fx-arc-height: 20px;
+}
+.custom-circle {
+    -fx-fill: #4d3b82; /* Fill color */
+}
+

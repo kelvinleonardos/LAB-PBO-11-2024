@@ -1,0 +1,47 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Gradle",
+            "type": "shell",
+            "command": "./gradlew run",
+            "group": "build"
+        },
+        {
+            "type": "gradle",
+            "id": "c:\\Users\\ASUS\\OneDrive\\Documents\\Algoritma dan Pemograman 1\\LAB-PBO-11-2024\\H071231008\\Praktikum-8app:runapp",
+            "script": "app:run",
+            "description": "Runs this project as a JVM application",
+            "group": "application",
+            "project": "app",
+            "buildFile": "C:\\Users\\ASUS\\OneDrive\\Documents\\Algoritma dan Pemograman 1\\LAB-PBO-11-2024\\H071231008\\Praktikum-8\\app\\build.gradle",
+            "rootProject": "Praktikum-8",
+            "projectFolder": "c:\\Users\\ASUS\\OneDrive\\Documents\\Algoritma dan Pemograman 1\\LAB-PBO-11-2024\\H071231008\\Praktikum-8",
+            "workspaceFolder": "c:\\Users\\ASUS\\OneDrive\\Documents\\Algoritma dan Pemograman 1\\LAB-PBO-11-2024\\H071231008\\Praktikum-8",
+            "args": "",
+            "javaDebug": false,
+            "problemMatcher": [
+                "$gradle"
+            ],
+            "label": "gradle: app:run"
+        },
+        {
+            "type": "gradle",
+            "id": "",
+            "script": "",
+            "description": "",
+            "group": "",
+            "project": "",
+            "buildFile": "",
+            "rootProject": "",
+            "projectFolder": "",
+            "workspaceFolder": "",
+            "args": "",
+            "javaDebug": false,
+            "problemMatcher": [
+                "$gradle"
+            ],
+            "label": "gradle: run"
+        }
+    ]
+}
