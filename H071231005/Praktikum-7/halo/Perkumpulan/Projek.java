@@ -20,7 +20,6 @@ public class Projek extends Kehidupan{
 
     }
 
-
     public void jumlahProjekk() {
         boolean hentikan = false;
         while (!hentikan) {
